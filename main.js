@@ -3,7 +3,7 @@ menu_list_array = ["Chicken Tandoori Pizza",
                    "Paneer Tikka Pizza",
                    "Deluxe Veggie Pizza", 
                    "Veg Margherita Pizza",
-                   "Veg Extravaganza Pizza"];];
+                   "Veg Extravaganza Pizza"];
 
 
 function getmenu()
